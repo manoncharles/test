@@ -1,9 +1,1 @@
 ligne 1
-ligne 2
-<<<<<<< HEAD
-modif tariq
-=======
-line 3
->>>>>>> master
-ligne 4
-ligne 5
